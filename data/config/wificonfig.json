@@ -5,4 +5,5 @@
 	"wifihostname": "freetouchdeck",
 	"sleepenable": true,
 	"sleeptimer": 10
+	"beep": true
 }

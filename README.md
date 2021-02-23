@@ -3,6 +3,10 @@ For interfacing with Windows/macOS/Linux using an ESP32, a touchscreen and BLE.
 
 ### [User guide](https://github.com/DustinWatts/FreeTouchDeck/wiki)
 
+# ESP32 TouchDown users
+
+Make sure to uncomment the line `//#define USECAPTOUCH`!
+
 # Delete the old clone and use the new
 
 ### Mixing files of different versions may cause some unexpected behavior!
@@ -37,6 +41,10 @@ For Capacitive touch:
 
 If you use capacitive touch:
 - FT6236 (latest version), download from: https://github.com/DustinWatts/FT6236
+
+# Combiner PCB for an ESP32 DevKit C (38-pin only) + ILI9488 Touch Module:
+
+https://github.com/DustinWatts/ESP32_TFT_Combiner
 
 # TFT_eSPI configuration
 
